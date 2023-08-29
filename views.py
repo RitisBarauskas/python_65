@@ -1,3 +1,7 @@
+class SomeClass:
+    pass
+
+
 class SomeClass1:
     def __init__(self):
         self.some_var = 1
